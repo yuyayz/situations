@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "question": "京都の金閣寺を訪れた観光客が『なぜ金箔が貼られているのか』と質問しました。どう説明しますか。",
+    "answer": "The Golden Pavilion, or Kinkaku-ji, is covered with gold leaf to symbolize the Buddhist concept of paradise. In Buddhism, gold represents purity, enlightenment, and the eternal light of Buddha. By covering the temple in gold, the builders intended to create a vision of a heavenly world on earth. The reflection of the golden structure on the pond enhances this image, giving visitors a sense of peace and spiritual beauty. It was also a way to show the wealth and cultural sophistication of the shogun who commissioned it."
+  },
+  {
+    "id": 2,
+    "question": "奈良公園で鹿に服をかじられて困っている観光客がいます。どう対応しますか。",
+    "answer": "In Nara Park, deer are considered sacred animals, believed to be messengers of the gods in the Shinto tradition. They are very accustomed to people and sometimes behave playfully, even nibbling on clothes or bags. I would calmly explain to the visitor that this is common behavior, and advise them to step back and avoid feeding the deer outside designated areas. If the situation continues, I would guide them to park staff who can assist. It is important to reassure the visitor that the deer are not dangerous, but they should be treated with respect."
+  },
+  {
+    "id": 3,
+    "question": "浅草寺で外国人が『おみくじの意味』を尋ねました。どう説明しますか。",
+    "answer": "Omikuji are fortune-telling slips found at temples and shrines. Visitors draw them to receive guidance about their future. If the fortune is good, people usually keep it as a lucky charm. If the fortune is bad, it is customary to tie the slip to a special rack or tree at the temple, symbolically leaving the misfortune behind. This practice reflects the Japanese belief in purification and renewal. It is not only about predicting the future but also about encouraging reflection and hope."
+  },
+  {
+    "id": 4,
+    "question": "広島平和記念資料館を訪れた観光客が『なぜ原爆ドームが保存されているのか』と質問しました。どう答えますか。",
+    "answer": "The Atomic Bomb Dome is preserved as a reminder of the tragic consequences of nuclear weapons. It stands as a symbol of peace and a call to prevent such devastation from happening again. By keeping the building in its damaged state, Japan hopes to educate future generations about the importance of peace and the dangers of war. It is not only a historical site but also a moral message to the world, urging us to work together for a future without nuclear weapons."
+  },
+  {
+    "id": 5,
+    "question": "富士山を訪れた観光客が『なぜ日本人にとって特別な山なのか』と尋ねました。どう説明しますか。",
+    "answer": "Mount Fuji is deeply connected to Japanese spirituality and culture. It has been worshipped as a sacred mountain for centuries, with pilgrims climbing it to purify themselves and feel closer to the divine. Artists and poets have celebrated its beauty, making it a central symbol in Japanese art and literature. Its symmetrical shape and snow-capped peak inspire feelings of harmony and perfection. For Japanese people, Mount Fuji is not just a mountain but a national icon representing resilience, beauty, and spirituality."
+  },
+  {
+    "id": 6,
+    "question": "観光客が『日本庭園の特徴は何か』と質問しました。どう説明しますか。",
+    "answer": "Japanese gardens are designed to represent nature in a refined and symbolic way. They often include elements such as rocks, water, and plants arranged to create harmony and balance. Unlike Western gardens, which may emphasize flowers and decoration, Japanese gardens focus on simplicity, tranquility, and the changing seasons. Walking through a Japanese garden is meant to be a meditative experience, encouraging visitors to reflect on nature and themselves. This philosophy is rooted in Zen Buddhism and Shinto beliefs."
+  },
+  {
+    "id": 7,
+    "question": "観光客が『日本の城はヨーロッパの城とどう違うのか』と尋ねました。どう答えますか。",
+    "answer": "Japanese castles were primarily built of wood and stone, with elegant curved roofs and multiple layers. They served both as military fortresses and as symbols of authority for feudal lords. Unlike European castles, which were often designed for long-term defense, Japanese castles emphasized strategic positioning, such as being built on hills or surrounded by moats. They also had aesthetic value, showcasing the power and culture of the ruling clan. Today, they are admired not only for their history but also for their architectural beauty."
+  },
+  {
+    "id": 8,
+    "question": "観光客が『新幹線はなぜ時間に正確なのか』と質問しました。どう説明しますか。",
+    "answer": "The Shinkansen is famous for its punctuality, often measured in seconds. This is achieved through strict scheduling, advanced technology, and a strong culture of responsibility among railway staff. Trains are carefully maintained, and operations are monitored to ensure safety and efficiency. For Japanese society, punctuality is a sign of respect for others, and the Shinkansen reflects this value. Explaining this to visitors helps them understand that the train is not only a technological achievement but also a cultural expression of reliability."
+  },
+  {
+    "id": 9,
+    "question": "観光客が『なぜ日本人は靴を脱ぐのか』と質問しました。どう説明しますか。",
+    "answer": "Removing shoes indoors is a long-standing custom in Japan. It helps keep the living space clean, especially since people often sit or sleep on tatami mats, which can be easily damaged by dirt. It also reflects the Japanese value of separating the outside world from the purity of the home. In temples and traditional inns, this practice is extended to show respect for sacred or cultural spaces. By explaining this, visitors can appreciate that it is not just a rule but a meaningful tradition."
+  },
+  {
+    "id": 10,
+    "question": "外国人が『お正月の過ごし方』について尋ねました。どう答えますか。",
+    "answer": "New Year is the most important holiday in Japan. Families gather to celebrate, eat traditional dishes called osechi, and visit shrines for hatsumode, the first prayer of the year. People also decorate their homes with symbols of good luck, such as pine and bamboo. It is a time for renewal, reflection, and wishing for happiness in the coming year. For visitors, experiencing Japanese New Year traditions offers insight into the values of family, spirituality, and seasonal celebration."
+  },
+  {
+    "id": 11,
+    "question": "観光客が『茶道の目的は何か』と質問しました。どう説明しますか。",
+    "answer": "The tea ceremony, or 'sado,' is not only about drinking tea but about appreciating harmony, respect, purity, and tranquility. Every movement is carefully performed to create a spiritual experience. It reflects Zen Buddhist philosophy, encouraging mindfulness and simplicity. For visitors, participating in a tea ceremony is a way to understand Japanese aesthetics and values."
+  },
+  {
+    "id": 12,
+    "question": "外国人が『日本人はなぜマスクをよく着けるのか』と尋ねました。どう答えますか。",
+    "answer": "Wearing masks in Japan is a common practice to prevent the spread of illness and to protect others. It also reflects a cultural value of consideration and respect for the community. In recent years, masks have also been used for allergies and even fashion. Explaining this helps visitors see that it is not only about health but also about social responsibility."
+  },
+  {
+    "id": 13,
+    "question": "観光客が『神社と寺の違い』を尋ねました。どう説明しますか。",
+    "answer": "Shrines are Shinto places of worship, dedicated to kami, or spirits, while temples are Buddhist places of worship. Shrines often feature torii gates and purification rituals, while temples include statues of Buddha and pagodas. Explaining the difference helps visitors understand Japan’s dual religious traditions and how they coexist."
+  },
+  {
+    "id": 14,
+    "question": "外国人が『日本の祭りはなぜ多いのか』と質問しました。どう答えますか。",
+    "answer": "Japan has many festivals because they are tied to seasonal changes, agricultural cycles, and local traditions. Festivals are a way to honor deities, celebrate community, and enjoy cultural performances. They also reflect the Japanese love of nature and the importance of social bonds. For visitors, festivals are a lively way to experience Japanese culture firsthand."
+  },
+  {
+    "id": 15,
+    "question": "観光客が『日本の食文化で最も特徴的な点は何か』と尋ねました。どう説明しますか。",
+    "answer": "Japanese cuisine emphasizes seasonality, balance, and presentation. Dishes are often prepared to highlight the natural flavors of ingredients, with minimal seasoning. Rice, fish, and vegetables form the foundation, while methods such as grilling, steaming, and raw preparation are common. Meals are not only about taste but also about aesthetics, with careful arrangement to please the eye. Washoku, or traditional Japanese food, was recognized by UNESCO as an Intangible Cultural Heritage because it reflects harmony with nature and social values. For visitors, Japanese food offers both nourishment and cultural insight."
+  },
+  {
+    "id": 16,
+    "question": "外国人が『なぜ日本人はお辞儀をするのか』と質問しました。どう答えますか。",
+    "answer": "Bowing in Japan is a traditional way to show respect, gratitude, or apology. It is used in both formal and casual situations, and the depth of the bow reflects the level of respect. This custom comes from Confucian and Buddhist influences, emphasizing humility and harmony in relationships. For visitors, bowing may seem unusual compared to handshakes, but it is a meaningful gesture that expresses sincerity without words."
+  },
+  {
+    "id": 17,
+    "question": "観光客が財布を落としてしまいました。どう対応しますか。",
+    "answer": "If a visitor loses their wallet, I would first reassure them and help retrace their steps. In Japan, lost items are often turned in to police or facility staff. I would guide them to the nearest police station or lost-and-found office, and assist with communication if needed. It is important to explain that Japan has a strong culture of honesty, and there is a good chance the wallet will be returned. Offering practical help and emotional support makes the visitor feel safe."
+  },
+  {
+    "id": 18,
+    "question": "外国人が電車に乗り遅れてしまいました。どう案内しますか。",
+    "answer": "If a visitor misses a train, I would explain that trains in Japan run frequently and another will arrive soon. I would help them check the schedule and guide them to the correct platform. If they have a reserved ticket, I would advise them to speak with station staff to change it. Reassuring them that missing a train is not a serious problem helps reduce stress and keeps their journey enjoyable."
+  },
+  {
+    "id": 19,
+    "question": "観光客がレストランでベジタリアン料理を希望しています。どう対応しますか。",
+    "answer": "I would ask the restaurant staff if vegetarian options are available, and if not, suggest dishes that can be adapted, such as vegetable tempura or tofu-based meals. I would explain to the visitor that vegetarianism is becoming more common in Japan, but not all restaurants are familiar with it. Offering alternatives and guiding them to suitable restaurants shows cultural sensitivity and care."
+  },
+  {
+    "id": 20,
+    "question": "外国人がホテルでWi-Fiの使い方が分からず困っています。どう説明しますか。",
+    "answer": "I would show them how to connect by selecting the hotel’s Wi-Fi network and entering the password provided at check-in. If necessary, I would demonstrate on my own device. I would reassure them that most hotels in Japan provide reliable internet access. Helping with this small but important detail improves their comfort and confidence during their stay."
+  }
+  {
+    "id": 21,
+    "question": "観光客が体調を崩し、病院に行きたいと言っています。どう対応しますか。",
+    "answer": "If a visitor feels unwell and requests medical assistance, the first step is to remain calm and reassure them. I would ask about their symptoms and determine if immediate emergency care is needed. If so, I would call an ambulance right away. If the situation is less urgent, I would guide them to the nearest hospital or clinic, and help with communication if language is a barrier. It is important to explain that Japan has reliable medical facilities and that they will be well taken care of. Offering support with translation and logistics shows care and professionalism."
+  },
+  {
+    "id": 22,
+    "question": "外国人が道に迷ってしまいました。どう案内しますか。",
+    "answer": "When a visitor is lost, I would first ask where they are trying to go and check a map or GPS. I would give clear directions, using landmarks and simple language. If possible, I might walk with them part of the way to ensure they feel safe. It is important to reassure them that Japan is safe and that people are willing to help. This builds trust and makes their experience more positive."
+  },
+  {
+    "id": 23,
+    "question": "観光客が『日本のトイレの使い方が分からない』と困っています。どう説明しますか。",
+    "answer": "Japanese toilets can be confusing because they often include advanced features such as bidets, heated seats, and multiple buttons. I would explain the basic functions clearly: the flush lever or button, and how to use the bidet if they wish. I would reassure them that it is safe and hygienic. For visitors, this is often surprising but also a memorable part of Japanese daily life."
+  },
+  {
+    "id": 24,
+    "question": "外国人が『お土産を買いたいが、どこで買えばいいか分からない』と言っています。どう案内しますか。",
+    "answer": "I would ask what kind of souvenir they are looking for—traditional crafts, food, or modern items. Then I would recommend suitable places, such as department stores, local specialty shops, or airport souvenir areas. I would explain that souvenirs often reflect regional culture, such as Kyoto sweets or Hokkaido dairy products. This helps them choose something meaningful and authentic."
+  },
+  {
+    "id": 25,
+    "question": "観光客が『日本人はなぜ英語をあまり話さないのか』と質問しました。どう答えますか。",
+    "answer": "English education in Japan has traditionally focused more on grammar and reading than on speaking. As a result, many Japanese people feel shy about using English in daily life. However, younger generations and service workers are increasingly able to communicate in English. I would explain that Japanese people value politeness and may avoid speaking English if they are not confident, but they are usually eager to help."
+  },
+  {
+    "id": 26,
+    "question": "外国人が『日本人はなぜ列に並ぶのが好きなのか』と尋ねました。どう説明しますか。",
+    "answer": "Queuing is a reflection of Japanese values of fairness, order, and respect for others. People believe that waiting in line ensures equal treatment and avoids conflict. It is also connected to the cultural emphasis on harmony in society. For visitors, this may seem unusual, but it shows the Japanese commitment to social responsibility."
+  },
+  {
+    "id": 27,
+    "question": "観光客が『日本人はなぜ静かなのか』と質問しました。どう答えますか。",
+    "answer": "Japanese people often value silence as a form of respect and consideration. In public places such as trains, silence helps maintain harmony and avoids disturbing others. This reflects cultural traditions influenced by Buddhism and Confucianism, which emphasize self-control and awareness of others. For visitors, it may feel unusual, but it is part of the social etiquette in Japan."
+  },
+  {
+    "id": 28,
+    "question": "外国人が『日本人はなぜチップを渡さないのか』と尋ねました。どう説明しますか。",
+    "answer": "In Japan, good service is considered part of the job and does not require extra payment. Giving tips may even confuse or embarrass staff. Instead, appreciation is shown through polite words such as 'thank you.' This reflects the cultural value of professionalism and pride in one’s work. Visitors often find this refreshing compared to countries where tipping is expected."
+  },
+  {
+    "id": 29,
+    "question": "観光客が『日本人はなぜ電車で電話をしないのか』と質問しました。どう答えますか。",
+    "answer": "Talking on the phone in trains is considered impolite because it disturbs others in a quiet environment. Japanese people value harmony and respect for shared spaces. Instead, they send text messages or wait until they leave the train. This etiquette helps maintain a peaceful atmosphere in crowded public transportation."
+  },
+  {
+    "id": 30,
+    "question": "外国人が『日本人はなぜ桜を特別視するのか』と尋ねました。どう説明しますか。",
+    "answer": "Cherry blossoms symbolize the beauty and fragility of life. They bloom briefly, reminding people of the transient nature of existence, a concept deeply rooted in Japanese aesthetics. Hanami, or flower viewing, is a tradition where people gather to celebrate spring and enjoy the blossoms together. For visitors, it is a chance to experience both natural beauty and cultural philosophy."
+  },
+  {
+    "id": 31,
+    "question": "観光客が『姫路城はなぜ世界遺産に登録されたのか』と質問しました。どう説明しますか。",
+    "answer": "Himeji Castle is considered the finest surviving example of Japanese castle architecture. It is admired for its elegant white appearance and sophisticated defensive design. Its preservation allows people to understand feudal Japan and its culture. UNESCO recognized it as a World Heritage Site because of its historical and architectural value."
+  },
+  {
+    "id": 32,
+    "question": "外国人が『北海道の観光の魅力は何か』と尋ねました。どう答えますか。",
+    "answer": "Hokkaido offers unique attractions such as vast natural landscapes, hot springs, ski resorts, and fresh seafood. It is especially famous for its flower fields in summer and snow festivals in winter. Visitors can experience both traditional culture and outdoor adventure. Explaining this highlights the diversity of Japan’s regions."
+  },
+  {
+    "id": 33,
+    "question": "観光客が『大阪城はどんな歴史を持っているのか』と質問しました。どう説明しますか。",
+    "answer": "Osaka Castle was originally built in the 16th century by Toyotomi Hideyoshi, a powerful warlord. It played a central role in unifying Japan. The castle has been destroyed and rebuilt several times, symbolizing resilience and change in Japanese history. Today, it is a museum and landmark representing Osaka’s heritage."
+  },
+  {
+    "id": 34,
+    "question": "外国人が『日本の温泉の特徴』について尋ねました。どう答えますか。",
+    "answer": "Japanese hot springs, or onsen, are valued for their natural minerals and healing properties. Bathing in an onsen is not only relaxing but also a cultural ritual of purification. Visitors should follow etiquette, such as washing before entering and not wearing swimsuits. Onsen culture reflects Japan’s connection to nature and health."
+  },
+  {
+    "id": 35,
+    "question": "観光客が『日本の橋で有名なものは何か』と質問しました。どう説明しますか。",
+    "answer": "Japan has many famous bridges, such as Akashi Kaikyō Bridge, the longest suspension bridge in the world. Traditional wooden bridges like Kintai Bridge in Iwakuni are also admired for their beauty. Bridges in Japan often symbolize connection and harmony, linking people and places."
+  }
+  {
+    "id": 36,
+    "question": "外国人が『日本の新幹線はどのくらい速いのか』と尋ねました。どう答えますか。",
+    "answer": "The Shinkansen can reach speeds of up to 320 kilometers per hour. Despite this speed, it remains extremely safe and punctual. Explaining this impresses visitors and shows Japan’s technological achievements. It is not only fast but also comfortable and environmentally efficient, making it a symbol of modern Japan."
+  },
+  {
+    "id": 37,
+    "question": "観光客が『日本の美術館でおすすめはどこか』と質問しました。どう説明しますか。",
+    "answer": "Japan has many excellent museums, such as the Tokyo National Museum, which houses important cultural treasures, and the Adachi Museum of Art, famous for its gardens. Recommendations depend on the visitor’s interests, whether traditional art, modern design, or regional culture. Museums offer insight into Japan’s history and creativity, and visiting them provides a deeper understanding of Japanese aesthetics."
+  },
+  {
+    "id": 38,
+    "question": "外国人が『日本の国立公園の魅力』について尋ねました。どう答えますか。",
+    "answer": "Japan’s national parks showcase diverse landscapes, from mountains and forests to coastlines and hot springs. They highlight the country’s natural beauty and biodiversity. Visitors can enjoy hiking, wildlife observation, and cultural sites within the parks. The parks reflect Japan’s respect for nature and provide opportunities for relaxation and adventure."
+  },
+  {
+    "id": 39,
+    "question": "観光客が『なぜ日本人は花見をするのか』と質問しました。どう説明しますか。",
+    "answer": "Hanami, or cherry blossom viewing, is a tradition that celebrates the arrival of spring. It reflects the Japanese appreciation for nature and the transient beauty of life. Families and friends gather under cherry trees to enjoy food, drinks, and the blossoms. This practice has been part of Japanese culture for centuries and symbolizes renewal and community."
+  },
+  {
+    "id": 40,
+    "question": "外国人が『日本の相撲はスポーツか宗教儀式か』と尋ねました。どう答えますか。",
+    "answer": "Sumo is both a sport and a ritual. It originated as a Shinto ceremony to entertain the gods and ensure good harvests. Today, it is a competitive sport with strict rules, but rituals such as salt purification and ceremonial stomping remain. Sumo reflects Japan’s blend of tradition and modernity, making it unique among sports."
+  },
+  {
+    "id": 41,
+    "question": "観光客が『和食はなぜユネスコ無形文化遺産に登録されたのか』と質問しました。どう説明しますか。",
+    "answer": "Washoku, or traditional Japanese cuisine, was recognized by UNESCO because it emphasizes harmony with nature, seasonal ingredients, and social values. Meals are designed to balance nutrition and aesthetics, reflecting respect for the environment. Washoku is not only food but also a cultural practice that connects families and communities."
+  },
+  {
+    "id": 42,
+    "question": "外国人が『日本人はなぜ四季を大切にするのか』と尋ねました。どう答えますか。",
+    "answer": "Japan experiences four distinct seasons, and each season is celebrated through festivals, foods, and traditions. This reflects the cultural value of living in harmony with nature. Seasonal changes are seen as opportunities for renewal and appreciation. For visitors, this explains why Japanese culture emphasizes seasonal beauty in art, cuisine, and daily life."
+  },
+  {
+    "id": 43,
+    "question": "観光客が『日本のアニメ文化はなぜ世界で人気なのか』と質問しました。どう説明しますか。",
+    "answer": "Japanese anime is popular worldwide because of its diverse themes, artistic styles, and emotional storytelling. It often explores universal human experiences while reflecting Japanese culture. Anime appeals to audiences of all ages and has influenced global entertainment. Explaining this helps visitors understand that anime is both art and cultural export."
+  },
+  {
+    "id": 44,
+    "question": "外国人が『日本の結婚式の特徴』について尋ねました。どう答えますか。",
+    "answer": "Japanese weddings often combine Shinto rituals with modern practices. Traditional ceremonies include purification, offerings to the gods, and symbolic drinking of sake. Modern weddings may also include Western-style ceremonies with white dresses and chapels. This blend reflects Japan’s ability to adapt traditions while embracing global influences."
+  },
+  {
+    "id": 45,
+    "question": "観光客が『日本の葬儀の習慣』について質問しました。どう説明しますか。",
+    "answer": "Japanese funerals are usually Buddhist, involving rituals such as incense offering, chanting, and cremation. Family members gather to honor the deceased and pray for their peaceful journey. Customs such as wearing black and giving condolence money reflect respect and support. Explaining this helps visitors understand Japanese values of remembrance and community."
+  },
+  {
+    "id": 46,
+    "question": "外国人が『日本人はなぜハロウィンを楽しむようになったのか』と尋ねました。どう答えますか。",
+    "answer": "Halloween became popular in Japan through theme parks and commercial events. It is celebrated mainly with costumes, parades, and parties, rather than traditional trick-or-treating. Japanese people enjoy the creativity and social aspect of dressing up. This shows how Japan adopts foreign customs and adapts them to local culture."
+  },
+  {
+    "id": 47,
+    "question": "観光客が『切符をなくしてしまった』と困っています。どう対応しますか。",
+    "answer": "If a visitor loses their ticket, I would guide them to the station staff and explain the situation. In Japan, staff are usually helpful and can issue a replacement or advise on the next steps. I would reassure the visitor that this is a common issue and can be resolved quickly."
+  },
+  {
+    "id": 48,
+    "question": "外国人が『ホテルのチェックイン時間を過ぎてしまった』と言っています。どう案内しますか。",
+    "answer": "I would advise the visitor to contact the hotel immediately, as most hotels allow late check-in with prior notice. I would help them explain the situation in Japanese if needed. Reassuring them that hotels are accustomed to such situations helps reduce stress."
+  },
+  {
+    "id": 49,
+    "question": "観光客が『食事でアレルギーがある』と伝えています。どう対応しますか。",
+    "answer": "I would ask about the specific allergy and inform the restaurant staff clearly. If necessary, I would suggest alternative dishes or guide them to restaurants that accommodate dietary needs. It is important to reassure the visitor that their health and safety are a priority."
+  },
+  {
+    "id": 50,
+    "question": "外国人が『観光地で靴が壊れてしまった』と困っています。どう対応しますか。",
+    "answer": "I would suggest nearby shoe stores or convenience shops where they can buy replacements. If the damage is minor, I might recommend a repair shop. Reassuring them that such services are easily available in Japan helps them feel supported."
+  }
+  {
+    "id": 51,
+    "question": "観光客が『日本円を持っていない』と言っています。どう案内しますか。",
+    "answer": "If a visitor does not have Japanese yen, I would explain that many places still prefer cash, especially smaller shops and rural areas. I would guide them to the nearest ATM that accepts international cards, such as those in convenience stores or post offices. I would also mention that credit cards are increasingly accepted in urban areas. Reassuring them that access to yen is easy helps reduce anxiety and ensures they can enjoy their trip."
+  },
+  {
+    "id": 52,
+    "question": "外国人が『観光地で写真撮影禁止の場所で撮影してしまった』と困っています。どう対応しますか。",
+    "answer": "I would calmly explain that some places prohibit photography to protect cultural artifacts or maintain a sacred atmosphere. I would ask them to delete the photo and reassure them that it is a common mistake. By explaining the cultural reasons behind the rule, the visitor can better understand and respect Japanese traditions."
+  },
+  {
+    "id": 53,
+    "question": "観光客が『宿泊先を間違えて予約してしまった』と言っています。どう対応しますか。",
+    "answer": "If a visitor booked the wrong accommodation, I would help them contact the hotel to explain the situation. Many hotels are flexible and may allow changes or cancellations. I would also assist in finding the correct accommodation. Reassuring them that such mistakes can be resolved smoothly helps maintain their confidence."
+  },
+  {
+    "id": 54,
+    "question": "外国人が『観光地で迷子になった子どもを見つけた』と言っています。どう対応しますか。",
+    "answer": "If a visitor finds a lost child, I would thank them and immediately contact local staff or police. I would reassure the visitor that Japan takes child safety seriously and that authorities will handle the situation quickly. Explaining the proper steps shows responsibility and care."
+  },
+  {
+    "id": 55,
+    "question": "観光客が『日本人はなぜ敬語を使うのか』と質問しました。どう説明しますか。",
+    "answer": "Keigo, or honorific language, is used to show respect and maintain social harmony. It reflects the hierarchical nature of Japanese society and the importance of politeness. Using keigo helps avoid conflict and demonstrates humility. For visitors, it may seem complex, but it is a key part of Japanese communication culture."
+  },
+  {
+    "id": 56,
+    "question": "外国人が『日本人はなぜ電車で寝るのか』と尋ねました。どう答えますか。",
+    "answer": "Sleeping on trains is common because many Japanese people have long commutes and busy schedules. Trains are safe and punctual, making them convenient places to rest. It reflects the trust in public transportation and the hardworking lifestyle of Japanese society. For visitors, it may seem unusual, but it is a normal part of daily life."
+  },
+  {
+    "id": 57,
+    "question": "観光客が『日本人はなぜ静かに食事をするのか』と質問しました。どう説明しますか。",
+    "answer": "Japanese people often eat quietly to show respect for the food and the people around them. Conversation is kept minimal to focus on the meal. This reflects cultural values of mindfulness and appreciation. For visitors, it highlights the Japanese emphasis on harmony and respect in everyday actions."
+  },
+  {
+    "id": 58,
+    "question": "外国人が『日本人はなぜ傘を共有しないのか』と尋ねました。どう答えますか。",
+    "answer": "Umbrellas are considered personal items, and sharing them is uncommon. This reflects cultural values of privacy and hygiene. However, Japan has many inexpensive umbrellas available at convenience stores, so people often buy new ones when needed. Explaining this helps visitors understand practical and cultural reasons."
+  },
+  {
+    "id": 59,
+    "question": "観光客が『日本人はなぜ名刺を大切にするのか』と質問しました。どう説明しますか。",
+    "answer": "Business cards, or meishi, are important in Japan because they represent the person and their company. Exchanging meishi is a formal ritual that shows respect and establishes relationships. Cards are handled carefully, reflecting the seriousness of business interactions. For visitors, understanding this practice helps them navigate Japanese professional culture."
+  },
+  {
+    "id": 60,
+    "question": "外国人が『日本人はなぜ桜だけでなく紅葉も楽しむのか』と尋ねました。どう答えますか。",
+    "answer": "Japanese people celebrate both cherry blossoms in spring and autumn leaves in fall because they reflect the beauty of seasonal change. Cherry blossoms symbolize renewal and the fleeting nature of life, while autumn leaves symbolize maturity and reflection. Together, they show the Japanese appreciation for nature’s cycles and the passage of time. For visitors, these traditions highlight the cultural importance of living in harmony with nature."
+  }
+]
+

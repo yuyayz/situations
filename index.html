@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>通訳案内士シチュエーション練習</title>
+  <style>
+    body {
+      font-family: "Arial", sans-serif;
+      margin: 40px;
+      background: #f9f9f9;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #ddd;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 700px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    h2 {
+      margin-top: 0;
+    }
+    button {
+      margin-top: 20px;
+      padding: 10px 15px;
+      border: none;
+      background: #0078d7;
+      color: #fff;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #005a9e;
+    }
+    .answer {
+      margin-top: 20px;
+      padding: 15px;
+      background: #eef;
+      border-radius: 5px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2 id="question">問題を読み込み中...</h2>
+    <button id="showAnswer">模範解答を見る</button>
+    <div id="answer" class="answer"></div>
+  </div>
+
+  <script>
+    // JSONファイルを読み込む
+    fetch("questions.json")
+      .then(response => response.json())
+      .then(data => {
+        // ランダムに1問選択
+        const randomIndex = Math.floor(Math.random() * data.length);
+        const selected = data[randomIndex];
+
+        // 問題と解答を表示
+        document.getElementById("question").textContent = selected.question;
+        document.getElementById("answer").textContent = selected.answer;
+
+        // ボタンクリックで模範解答を表示
+        document.getElementById("showAnswer").addEventListener("click", () => {
+          document.getElementById("answer").style.display = "block";
+        });
+      })
+      .catch(error => {
+        document.getElementById("question").textContent = "問題の読み込みに失敗しました。";
+        console.error(error);
+      });
+  </script>
+</body>
+</html>
