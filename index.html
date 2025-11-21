@@ -54,18 +54,23 @@
     let questions = [];
 
     function loadRandomQuestion() {
+      if (questions.length === 0) {
+        document.getElementById("question").textContent = "問題がありません。";
+        document.getElementById("answer").textContent = "";
+        return;
+      }
       const randomIndex = Math.floor(Math.random() * questions.length);
       const selected = questions[randomIndex];
       document.getElementById("question").textContent = selected.question;
-      // ★ 修正ポイント: answer → response に変更
-      document.getElementById("answer").textContent = selected.response;
+      document.getElementById("answer").textContent = selected.response; // ← 修正済み
       document.getElementById("answer").style.display = "none";
     }
 
-    fetch("words.json")  // ★ ファイル名を words.json に変更
+    fetch("words.json") // ← ファイル名を修正
       .then(response => response.json())
       .then(data => {
         questions = data;
         loadRandomQuestion();
 
-        document
+        document.getElementById("showAnswer").addEventListener("click", () => {
+          document.getElementById("answer").style
