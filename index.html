@@ -57,28 +57,15 @@
       const randomIndex = Math.floor(Math.random() * questions.length);
       const selected = questions[randomIndex];
       document.getElementById("question").textContent = selected.question;
-      document.getElementById("answer").textContent = selected.answer;
+      // ★ 修正ポイント: answer → response に変更
+      document.getElementById("answer").textContent = selected.response;
       document.getElementById("answer").style.display = "none";
     }
 
-    fetch("questions.json")
+    fetch("words.json")  // ★ ファイル名を words.json に変更
       .then(response => response.json())
       .then(data => {
         questions = data;
         loadRandomQuestion();
 
-        document.getElementById("showAnswer").addEventListener("click", () => {
-          document.getElementById("answer").style.display = "block";
-        });
-
-        document.getElementById("nextQuestion").addEventListener("click", () => {
-          loadRandomQuestion();
-        });
-      })
-      .catch(error => {
-        document.getElementById("question").textContent = "問題の読み込みに失敗しました。";
-        console.error(error);
-      });
-  </script>
-</body>
-</html>
+        document
