@@ -43,30 +43,32 @@
       display: none;
       font-size: 30px;
     }
-    @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
   body {
-    margin: 20px;
+    margin: 15px;
     font-size: 20px;
   }
 
   .card {
     max-width: 100%;
-    padding: 15px;
+    padding: 12px;
   }
 
   h2 {
-    font-size: 25px;
+    font-size: 22px;
   }
 
   .answer {
-    font-size: 30px;
+    font-size: 6vw;   /* 画面幅に応じて文字サイズを可変 */
+    line-height: 1.6; /* 行間を広げて読みやすく */
   }
 
   button {
-    font-size: 15px;
+    font-size: 4vw;   /* ボタンも相対サイズに */
     padding: 8px 12px;
   }
 }
+
   </style>
 </head>
 <body>
@@ -119,6 +121,7 @@
   </script>
 </body>
 </html>
+
 
 
 
